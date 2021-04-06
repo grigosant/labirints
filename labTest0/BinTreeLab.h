@@ -12,4 +12,3 @@ private:
 	bool BTLabirintCreating();
 	inline bool couldMakePath(unsigned int direction, int a, int b);
 };
-
